@@ -1,0 +1,6 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-10Con_Donguler\20170807-10Con_Donguler\bin\Debug\20170807-10Con_Donguler.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-10Con_Donguler\20170807-10Con_Donguler\bin\Debug\20170807-10Con_Donguler.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-10Con_Donguler\20170807-10Con_Donguler\bin\Debug\20170807-10Con_Donguler.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-10Con_Donguler\20170807-10Con_Donguler\obj\Debug\20170807-10Con_Donguler.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-10Con_Donguler\20170807-10Con_Donguler\obj\Debug\20170807-10Con_Donguler.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-10Con_Donguler\20170807-10Con_Donguler\obj\Debug\20170807-10Con_Donguler.csprojResolveAssemblyReference.cache
